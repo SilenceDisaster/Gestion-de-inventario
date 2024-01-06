@@ -1,0 +1,72 @@
+==> 2024-01-04 18:35:05 <==
+# cmd: /usr/bin/conda create --prefix /home/davinky/Documents/Tareas/Gestion-de-Inventario python=3.11
+# conda version: 23.9.0
++defaults/linux-64::_libgcc_mutex-0.1-main
++defaults/linux-64::_openmp_mutex-5.1-1_gnu
++defaults/linux-64::bzip2-1.0.8-h7b6447c_0
++defaults/linux-64::ca-certificates-2023.12.12-h06a4308_0
++defaults/linux-64::ld_impl_linux-64-2.38-h1181459_1
++defaults/linux-64::libffi-3.4.4-h6a678d5_0
++defaults/linux-64::libgcc-ng-11.2.0-h1234567_1
++defaults/linux-64::libgomp-11.2.0-h1234567_1
++defaults/linux-64::libstdcxx-ng-11.2.0-h1234567_1
++defaults/linux-64::libuuid-1.41.5-h5eee18b_0
++defaults/linux-64::ncurses-6.4-h6a678d5_0
++defaults/linux-64::openssl-3.0.12-h7f8727e_0
++defaults/linux-64::pip-23.3.1-py311h06a4308_0
++defaults/linux-64::python-3.11.5-h955ad1f_0
++defaults/linux-64::readline-8.2-h5eee18b_0
++defaults/linux-64::setuptools-68.2.2-py311h06a4308_0
++defaults/linux-64::sqlite-3.41.2-h5eee18b_0
++defaults/linux-64::tk-8.6.12-h1ccaba5_0
++defaults/linux-64::wheel-0.41.2-py311h06a4308_0
++defaults/linux-64::xz-5.4.5-h5eee18b_0
++defaults/linux-64::zlib-1.2.13-h5eee18b_0
++defaults/noarch::tzdata-2023d-h04d1e81_0
+# update specs: ['python=3.11']
+==> 2024-01-06 09:41:03 <==
+# cmd: /usr/bin/conda install spyder-kernels=2.5
+# conda version: 23.9.0
+-defaults/linux-64::ca-certificates-2023.12.12-h06a4308_0
++conda-forge/linux-64::ca-certificates-2023.11.17-hbcca054_0
++conda-forge/linux-64::jupyter_core-5.7.0-py311h38be061_0
++conda-forge/linux-64::libsodium-1.0.18-h36c2ea0_1
++conda-forge/linux-64::python_abi-3.11-2_cp311
++conda-forge/noarch::asttokens-2.4.1-pyhd8ed1ab_0
++conda-forge/noarch::cloudpickle-3.0.0-pyhd8ed1ab_0
++conda-forge/noarch::comm-0.2.1-pyhd8ed1ab_0
++conda-forge/noarch::decorator-5.1.1-pyhd8ed1ab_0
++conda-forge/noarch::exceptiongroup-1.2.0-pyhd8ed1ab_0
++conda-forge/noarch::executing-2.0.1-pyhd8ed1ab_0
++conda-forge/noarch::importlib-metadata-7.0.1-pyha770c72_0
++conda-forge/noarch::importlib_metadata-7.0.1-hd8ed1ab_0
++conda-forge/noarch::ipykernel-6.28.0-pyhd33586a_0
++conda-forge/noarch::ipython-8.19.0-pyh707e725_0
++conda-forge/noarch::jedi-0.19.1-pyhd8ed1ab_0
++conda-forge/noarch::jupyter_client-8.6.0-pyhd8ed1ab_0
++conda-forge/noarch::matplotlib-inline-0.1.6-pyhd8ed1ab_0
++conda-forge/noarch::nest-asyncio-1.5.8-pyhd8ed1ab_0
++conda-forge/noarch::packaging-23.2-pyhd8ed1ab_0
++conda-forge/noarch::parso-0.8.3-pyhd8ed1ab_0
++conda-forge/noarch::pexpect-4.8.0-pyh1a96a4e_2
++conda-forge/noarch::pickleshare-0.7.5-py_1003
++conda-forge/noarch::platformdirs-4.1.0-pyhd8ed1ab_0
++conda-forge/noarch::prompt-toolkit-3.0.42-pyha770c72_0
++conda-forge/noarch::ptyprocess-0.7.0-pyhd3deb0d_0
++conda-forge/noarch::pure_eval-0.2.2-pyhd8ed1ab_0
++conda-forge/noarch::pygments-2.17.2-pyhd8ed1ab_0
++conda-forge/noarch::python-dateutil-2.8.2-pyhd8ed1ab_0
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
++conda-forge/noarch::spyder-kernels-2.5.0-unix_pyhd8ed1ab_0
++conda-forge/noarch::stack_data-0.6.2-pyhd8ed1ab_0
++conda-forge/noarch::traitlets-5.14.1-pyhd8ed1ab_0
++conda-forge/noarch::typing_extensions-4.9.0-pyha770c72_0
++conda-forge/noarch::wcwidth-0.2.12-pyhd8ed1ab_0
++conda-forge/noarch::wurlitzer-3.0.3-pyhd8ed1ab_0
++conda-forge/noarch::zipp-3.17.0-pyhd8ed1ab_0
++defaults/linux-64::debugpy-1.6.7-py311h6a678d5_0
++defaults/linux-64::psutil-5.9.0-py311h5eee18b_0
++defaults/linux-64::pyzmq-25.1.0-py311h6a678d5_0
++defaults/linux-64::tornado-6.3.3-py311h5eee18b_0
++defaults/linux-64::zeromq-4.3.4-h2531618_0
+# update specs: ['spyder-kernels=2.5']
